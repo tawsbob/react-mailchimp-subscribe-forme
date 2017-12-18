@@ -44,3 +44,6 @@ And **fields** props is an array of object fields that name is the input text na
 ##Form load state
 
 When the form is loading the container of form will have a class  called form-is-loading that you can use to help stylize your form
+
+##ROADMAP
+ - Validations
