@@ -3,7 +3,12 @@ This is just a simple and clean react component for those who need to subscribe 
 
 I did not stylize the form to avoid problems with conflicting styles, even because it's easy to style a form even though it's from scratch
 
+## Install
+
+> npm install  react-mailchimp-subscribe-forme --save
+
 ## How to use
+
 > `import ReactMCSimpleForm from 'react-mailchimp-subscribe-forme'`
 
 ## And then
