@@ -21,6 +21,10 @@
     "name": "Dellean Santos",
     "email": "dellean.santos@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawsbob/react-mailchimp-subscribe-forme.git"
+  },
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.24.1",
